@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.30)
+cmake_minimum_required(VERSION 3.5)
 project(ConsoleStream LANGUAGES CXX)
 
 add_library(ConsoleStream INTERFACE)
