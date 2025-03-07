@@ -132,5 +132,3 @@ The above code will produce styled terminal output like:
 ## License
 
 This project is released under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
